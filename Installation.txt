@@ -1,0 +1,14 @@
+0. 前段階（originにURLを割り当てる）
+git remote add origin git@github.com:hanedatakatoshi/repos.git
+
+1. クローンする
+git git clone https://github.com/hanedatakatoshi/repos.git
+
+2. Add/Commitする
+git add .
+git commit -m "initial commit"
+
+3. Pushする
+git push origin master
+
+以上
